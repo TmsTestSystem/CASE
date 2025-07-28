@@ -1,0 +1,17 @@
+{
+  "id": "5610a7b8-bbe2-427d-8a94-034ea001a7c4",
+  "project_id": "f658fffe-1a7f-48df-b98b-6f906e0cce3a",
+  "test_plan_id": null,
+  "title": "Тест",
+  "description": "тест",
+  "preconditions": "тест",
+  "steps": "тест",
+  "expected_result": "тест",
+  "priority": "medium",
+  "status": "draft",
+  "created_by": null,
+  "assigned_to": null,
+  "section_id": "3b3decc9-6863-4cc7-bf4e-937b3c96fd4c",
+  "created_at": "2025-07-28T09:23:34.573Z",
+  "updated_at": "2025-07-28T09:23:34.573Z"
+}
